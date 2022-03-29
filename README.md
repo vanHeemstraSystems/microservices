@@ -8,3 +8,5 @@ microservices
 | Microservices | [Chat](https://github.com/vanHeemstraSystems/exo-chat-headstart) | - [Chat-Server](https://github.com/exo-docker/exo-chat-server) |
 | Microservices | [Content Management Systems (CMS)](https://github.com/vanHeemstraSystems/content-management-systems) | - [Strapi](https://github.com/strapi/strapi) |
 | Microservices | [Infrastructure Management (IM)](https://github.com/vanHeemstraSystems/infrastructure-management) | - [Clutch](https://github.com/lyft/clutch)<br>- [Portainer](https://github.com/portainer/portainer) |
+
+Following [Open Container Initiative - OCI](https://www.padok.fr/en/blog/container-docker-oci) as the standard.
